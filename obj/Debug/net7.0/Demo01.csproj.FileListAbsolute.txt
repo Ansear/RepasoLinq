@@ -1,0 +1,14 @@
+C:\Users\APM02-40\Documents\LINQ\Demo01\bin\Debug\net7.0\Demo01.exe
+C:\Users\APM02-40\Documents\LINQ\Demo01\bin\Debug\net7.0\Demo01.deps.json
+C:\Users\APM02-40\Documents\LINQ\Demo01\bin\Debug\net7.0\Demo01.runtimeconfig.json
+C:\Users\APM02-40\Documents\LINQ\Demo01\bin\Debug\net7.0\Demo01.dll
+C:\Users\APM02-40\Documents\LINQ\Demo01\bin\Debug\net7.0\Demo01.pdb
+C:\Users\APM02-40\Documents\LINQ\Demo01\obj\Debug\net7.0\Demo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-40\Documents\LINQ\Demo01\obj\Debug\net7.0\Demo01.AssemblyInfoInputs.cache
+C:\Users\APM02-40\Documents\LINQ\Demo01\obj\Debug\net7.0\Demo01.AssemblyInfo.cs
+C:\Users\APM02-40\Documents\LINQ\Demo01\obj\Debug\net7.0\Demo01.csproj.CoreCompileInputs.cache
+C:\Users\APM02-40\Documents\LINQ\Demo01\obj\Debug\net7.0\Demo01.dll
+C:\Users\APM02-40\Documents\LINQ\Demo01\obj\Debug\net7.0\refint\Demo01.dll
+C:\Users\APM02-40\Documents\LINQ\Demo01\obj\Debug\net7.0\Demo01.pdb
+C:\Users\APM02-40\Documents\LINQ\Demo01\obj\Debug\net7.0\Demo01.genruntimeconfig.cache
+C:\Users\APM02-40\Documents\LINQ\Demo01\obj\Debug\net7.0\ref\Demo01.dll
