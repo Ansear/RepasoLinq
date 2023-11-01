@@ -7,6 +7,9 @@ internal class Program
         // demoLinq01.PrintData();
 
         Linq02 demoLinq02 = new Linq02();
-        demoLinq02.NameId();
+        // var l = demoLinq02.OrderName();
+        // l.ForEach(l => Console.WriteLine(l.Name));
+
+        demoLinq02.InnerJoin();
     }
 }

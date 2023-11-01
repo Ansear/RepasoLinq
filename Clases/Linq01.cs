@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Demo01.Clases
-{
+namespace Demo01.Clases;
     public class Linq01
     {
         List<string> libros = new List<string>(){
@@ -39,4 +38,3 @@ namespace Demo01.Clases
             Console.ReadKey();
         }
     }
-}
